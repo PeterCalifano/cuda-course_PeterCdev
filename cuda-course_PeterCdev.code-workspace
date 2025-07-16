@@ -76,6 +76,7 @@
 			"__nullptr": "cpp",
 			"iomanip": "cpp",
 			"sstream": "cpp"
-		}
+		},
+		"markdown.validate.enabled": true
 	}
 }
